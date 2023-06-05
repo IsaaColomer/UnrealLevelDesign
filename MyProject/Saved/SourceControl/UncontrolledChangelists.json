@@ -14,7 +14,14 @@
 				"U:/UnrealLevelDesign/UnrealLevelDesign/MyProject/Content/Our_Content/Our_Assets/Isaac/Table/Old_Table_Small_000.uasset",
 				"U:/UnrealLevelDesign/UnrealLevelDesign/MyProject/Content/Our_Content/Our_Assets/Isaac/Table/Old_Table_Small_Base_color.uasset",
 				"U:/UnrealLevelDesign/UnrealLevelDesign/MyProject/Content/Our_Content/Our_Assets/Isaac/Table/Old_Table_Small_Normal_OpenGL.uasset",
-				"U:/UnrealLevelDesign/UnrealLevelDesign/MyProject/Content/Our_Content/Our_Assets/Isaac/Table/Old_Table_Small_Roughness.uasset"
+				"U:/UnrealLevelDesign/UnrealLevelDesign/MyProject/Content/Our_Content/Our_Assets/Isaac/Table/Old_Table_Small_Roughness.uasset",
+				"U:/Github/UnrealLevelDesign/MyProject/Content/Our_Content/LevelDesign_Level.umap",
+				"U:/Github/UnrealLevelDesign/MyProject/Content/CityPark/Meshes/Props/SM_Statue02.uasset",
+				"U:/Github/UnrealLevelDesign/MyProject/Content/CityPark/Materials/BaseMaterial/M_MainShader_V_11.uasset",
+				"U:/Unreal/Projects/TFGPRoject/FirstPersonStoryAdventure 5.1/Content/CityPark/Materials/Ground/MI_Water4.uasset",
+				"U:/Unreal/Projects/TFGPRoject/FirstPersonStoryAdventure 5.1/Content/CityPark/Materials/BaseMaterial/M_WaterShader_V_01.uasset",
+				"U:/Unreal/Projects/TFGPRoject/FirstPersonStoryAdventure 5.1/Content/CityPark/Textures/BaseTextures/T_Water_N.uasset",
+				"U:/Unreal/Projects/TFGPRoject/FirstPersonStoryAdventure 5.1/Content/CityPark/Textures/BaseTextures/T_WaterFoam_D.uasset"
 			]
 		}
 	]
